@@ -7,6 +7,9 @@ module.exports = {
       fontFamily: {
         inter: ['Inter', 'sans-serif']
       },
+      colors: {
+        'spotify-green': '#1DB954',
+      }
     },
     extend: {},
   },
