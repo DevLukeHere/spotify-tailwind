@@ -5,8 +5,7 @@ module.exports = {
   theme: {
     theme: {
       fontFamily: {
-        // Inter: ['Inter', 'sans-serif'],
-        nautigal: ["The Nautigal", "cursive"],
+        inter: ['Inter', 'sans-serif']
       },
     },
     extend: {},
