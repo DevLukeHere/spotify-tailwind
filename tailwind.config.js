@@ -3,15 +3,15 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    theme: {
-      fontFamily: {
-        inter: ['Inter', 'sans-serif']
-      },
-      colors: {
-        'spotify-green': '#1DB954',
-      }
+    fontFamily: {
+      inter: ['Inter', 'sans-serif']
     },
-    extend: {},
+    colors: {
+      'spotify-green-primary': '#1DB954',
+      'spotify-green-secondary': '#1DB954',
+      'spotify-black': '#191414',
+    }
   },
+  extend: {},
   plugins: [],
 }
