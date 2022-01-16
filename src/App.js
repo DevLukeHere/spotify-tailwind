@@ -3,7 +3,7 @@ import LeftPanel from "./layouts/LeftPanel";
 
 function App() {
   return (
-    <div className="relative h-screen bg-spotify-black">
+    <div className="relative h-screen">
       <LeftPanel />
       <BottomNavbar />
     </div>

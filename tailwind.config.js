@@ -14,6 +14,7 @@ module.exports = {
       },
       gridTemplateColumns: {
         'footerLeft': 'auto auto minmax(0, 1fr)',
+        'leftPanel': 'auto minmax(0, 1fr)',
       },
     }
   },
