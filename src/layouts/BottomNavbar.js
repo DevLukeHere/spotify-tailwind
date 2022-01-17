@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import AlbumArt from "../assets/images/lofi-girl-album-art.jpeg";
 import { HeartIcon } from "@heroicons/react/outline";
 import {
