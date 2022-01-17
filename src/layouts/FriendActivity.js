@@ -11,7 +11,7 @@ function FriendActivity() {
   const [playOverlay3, setPlayOverlay3] = useState(false);
 
   return (
-    <div className="p-4 bg-spotify-black">
+    <div className="p-4 bg-spotify-black col-end-13 col-span-3">
       <div className="text-white grid grid-cols-2 mb-10">
         <p className="font-bold">Friend activity</p>
         <UserAddIcon className="w-5 h-5 place-self-end stroke-gray-400 hover:stroke-white" />

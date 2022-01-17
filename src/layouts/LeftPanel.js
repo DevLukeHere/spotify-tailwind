@@ -8,7 +8,7 @@ import {
 
 function LeftPanel() {
   return (
-    <div className="bg-spotify-black pt-8 pl-2 pb-2 pr-2 h-screen">
+    <div className="bg-spotify-black pt-8 pl-2 pb-2 pr-2 h-screen col-start-1 col-end-4">
       <div className="mb-5">
         <div className="pl-4 pt-2 pb-2 rounded grid grid-cols-leftPanel gap-3 mb-3 cursor-pointer text-white stroke-white border-white bg-gray-600/50">
           <HomeIcon className="w-6 h-6" />

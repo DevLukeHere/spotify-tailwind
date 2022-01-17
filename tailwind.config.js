@@ -15,7 +15,7 @@ module.exports = {
       gridTemplateColumns: {
         'footerLeft': 'auto auto minmax(0, 1fr)',
         'leftPanel': 'auto minmax(0, 1fr)',
-        'friendActivity': 'auto minmax(0, 1fr) minmax(0, 1fr)',
+        'friendActivity': 'auto minmax(0, 1fr) auto',
         'artistAlbum': 'auto auto minmax(0, 1fr)'
       },
     }

@@ -5,7 +5,7 @@ import LeftPanel from "./layouts/LeftPanel";
 
 function App() {
   return (
-    <div className="relative grid grid-cols-3">
+    <div className="relative grid grid-cols-12">
       <LeftPanel />
       <CenterPanel />
       <FriendActivity />
