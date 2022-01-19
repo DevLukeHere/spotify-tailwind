@@ -20,6 +20,7 @@ module.exports = {
         'centerRow': 'auto minmax(0, 1fr) minmax(0, 1fr)',
         'centerRowAlbum': 'auto minmax(0, 1fr) minmax(0, 0.4fr)',
         'centerArrows': 'auto minmax(0, 1fr)',
+        'centerRowPodcast': 'minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr)',
       },
     }
   },
